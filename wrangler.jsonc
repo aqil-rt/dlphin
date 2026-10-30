@@ -1,0 +1,11 @@
+{
+    "name": "dlphin",
+    "main": "src/index.ts",
+    "compatibility_date": "2026-10-28",
+    "vars" : {
+        "JIRA_BASE_URL": "https://rajahtann.atlassian.net/",
+        "JIRA_USER_URL": "https://rajahtann.atlassian.net/",
+        "JIRA_VERDICT_FIELD":"customfield_10448",
+        "PIPELINE_COMMENT_PREFIX": "[DLPHIN]"
+    }
+}
